@@ -1,0 +1,10 @@
+#HowTo - Multihash
+Download wordlist from this link: https://www.mediafire.com/file/ii0txvnyb3qnffr/plist.txt/file
+Put the word list in the same directory as the EXE
+*It will not work if it is renamed or moved!!
+
+Don't want that word list or have your own?
+Rename your list to 'plist.txt' and put it in the same directory as 'Multihash.exe'.
+
+###THIS IS NOT FOR NEWBIES
+WEB: lukey6.dev
